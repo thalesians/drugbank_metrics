@@ -1,0 +1,6 @@
+metric,cohesion_score
+Tanimoto (Morgan),0.5667325986625223
+Dice (Morgan),0.5667325986625223
+Cosine (Morgan),0.5616840915512856
+Euclidean (Descriptors),0.3928605067344824
+Cosine (Descriptors),0.3777526608269756
